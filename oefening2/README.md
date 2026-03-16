@@ -1,2 +1,2 @@
 # Oefening 2
-Android oefening
+Typescript oefening
